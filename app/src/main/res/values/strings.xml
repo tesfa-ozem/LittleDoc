@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LittleDoc</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="insole_data_title">Insole data</string>
 </resources>
